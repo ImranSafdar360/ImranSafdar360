@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://img.freepik.com/premium-photo/businessman-sitting-office-desk-working-laptop-computer_396607-18446.jpg?w=996"  />
+  <img height="100%" width="100%" style="object-fit:cover" src="https://img.freepik.com/premium-photo/businessman-sitting-office-desk-working-laptop-computer_396607-18446.jpg?w=996"  />
 </div>
 
 ###
